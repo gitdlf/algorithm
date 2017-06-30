@@ -9,5 +9,7 @@
 #include <math.h>
 void main() {
 	printf("程序开始运行：\n");
-	c911();
+//	c911();
+//	c913();
+	c914();
 }
